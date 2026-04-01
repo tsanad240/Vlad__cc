@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1774600881 source:c:\users\csanád\documents\csanád bme\vlad__cc\udemy_section_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
