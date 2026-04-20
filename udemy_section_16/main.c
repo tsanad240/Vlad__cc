@@ -104,8 +104,7 @@ int main()
     do {
         printf(" add meg  szazalekod: ");
         scanf("%d",&szazalek);
-    }while (szazalek <=0 && szazalek>=100);
-    // while(szazalek<0 || szazalek>100)
+    }while(szazalek<0 || szazalek>100);
     printf("Koszonom! %d szazalekot adta meg ami helyes\n",szazalek);
     return 0;
 }
